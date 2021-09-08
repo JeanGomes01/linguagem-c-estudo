@@ -3,7 +3,7 @@
 // For
 
 //Mostrar os 10 primeiros números inteiros e positivos em ordem crescente
-/*
+
 int main(){
   int cont;
 
@@ -11,7 +11,7 @@ int main(){
   printf ("%d\n",cont);
 
 }
-*/
+
 
 //Mostrar os 10 primeiros números inteiros e positivos em ordem descrescente
 /*int main(){
